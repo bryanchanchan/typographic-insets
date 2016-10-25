@@ -98,6 +98,7 @@ main > p:first-child::first-letter {
   border-bottom: 3px solid #333;
   font-style: normal;
   padding: 10px;
+  margin: 0 20px 20px 0;
 }
 
 figure {
